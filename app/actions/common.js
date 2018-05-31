@@ -1,13 +1,6 @@
-import {
-  createAction,
-} from 'redux-actions'
-import {
-  common,
-} from 'api'
-import {
-  createAjaxAction,
-  fakeAjaxAction,
-} from 'utils'
+import {createAction} from 'redux-actions'
+import {common} from 'api'
+import {createAjaxAction, fakeAjaxAction} from 'utils'
 
 
 // export const requestAmList = createAction('request am list')

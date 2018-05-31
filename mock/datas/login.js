@@ -1,6 +1,6 @@
 module.exports = {
-  data: {},
-  msg: '',
-  errorCode: '',
-  status: 1,
+    data: {},
+    msg: '',
+    errorCode: '',
+    status: 1,
 }
